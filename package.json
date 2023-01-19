@@ -88,13 +88,13 @@
     ]
   },
   "resolutions": {
-    "http-proxy": "1.18.1",
-    "css-what": "6.1.0",
-    "axios": "1.2.3",
-    "node-fetch": "3.3.0",
-    "watchpack": "2.4.0",
-    "minimist": "1.2.7",
-    "braces": "3.0.2",
-    "glob-parent": "6.0.2"
+    "http-proxy": "^1.18.1",
+    "css-what": "^5.0.1",
+    "axios": "^0.21.1",
+    "node-fetch": "^2.6.1",
+    "watchpack": "^2.2.0",
+    "minimist": "^1.2.5",
+    "braces": "^3.0.2",
+    "glob-parent": "^6.0.0"
   }
 }
