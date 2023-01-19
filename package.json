@@ -2,6 +2,9 @@
   "name": "webdataconnector",
   "version": "2.0.0",
   "description": "Connect to web data from Tableau.",
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "corsproxy": "export CORSPROXY_PORT=8889 || set CORSPROXY_PORT=8889 && node ./Simulator/utils/corsproxy.js",
     "http-server": "export SERVER_PORT=8888 || set SERVER_PORT=8888 && node ./index.js --no-cache",
